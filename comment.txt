@@ -1,0 +1,130 @@
+Microsoft Windows [Version 10.0.22621.4037]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git init
+Reinitialized existing Git repository in C:/FULLSTACK DEVELOPER/React/Pro/pro/src/.git/
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        App.css
+        App.js
+        App.test.js
+        ArtworkDetail.js
+        ArtworkList.js
+        CommentsForm.js
+        Filter.js
+        Pagination.js
+        SearchFilter.js
+        api.js
+        artworkService.js
+        index.css
+        index.js
+        logo.svg
+        reportWebVitals.js
+        setupTests.js
+        styles.css
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git add .
+warning: in the working copy of 'App.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'App.test.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'reportWebVitals.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'setupTests.js', LF will be replaced by CRLF the next time Git touches it
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   App.css
+        new file:   App.js
+        new file:   App.test.js
+        new file:   ArtworkDetail.js
+        new file:   ArtworkList.js
+        new file:   CommentsForm.js
+        new file:   Filter.js
+        new file:   Pagination.js
+        new file:   SearchFilter.js
+        new file:   api.js
+        new file:   artworkService.js
+        new file:   index.css
+        new file:   index.js
+        new file:   logo.svg
+        new file:   reportWebVitals.js
+        new file:   setupTests.js
+        new file:   styles.css
+
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git commmit -m "sdfgn"
+git: 'commmit' is not a git command. See 'git --help'.
+
+The most similar command is
+        commit
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git commit -m "sdfgn"
+[master (root-commit) 5f100ed] sdfgn
+ 17 files changed, 635 insertions(+)
+ create mode 100644 App.css
+ create mode 100644 App.js
+ create mode 100644 App.test.js
+ create mode 100644 ArtworkDetail.js
+ create mode 100644 ArtworkList.js
+ create mode 100644 CommentsForm.js
+ create mode 100644 Filter.js
+ create mode 100644 Pagination.js
+ create mode 100644 SearchFilter.js
+ create mode 100644 api.js
+ create mode 100644 artworkService.js
+ create mode 100644 index.css
+ create mode 100644 index.js
+ create mode 100644 logo.svg
+ create mode 100644 reportWebVitals.js
+ create mode 100644 setupTests.js
+ create mode 100644 styles.css
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git remote add origin https://github.com/ASHOKKUMAR-r16/Reactproject.git
+error: remote origin already exists.
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ASHOKKUMAR-r16/Reactproject.git'
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git push -u origin
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>git push -u origin master
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (18/18), done.
+Writing objects: 100% (19/19), 8.52 KiB | 363.00 KiB/s, done.
+Total 19 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/ASHOKKUMAR-r16/Reactproject.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>
+C:\FULLSTACK DEVELOPER\React\Pro\pro\src>^A
