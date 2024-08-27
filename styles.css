@@ -1,0 +1,123 @@
+body{
+  background-color:lightskyblue;
+}
+.navbar1{
+  margin-right: 10px;
+  margin-left: 10px;
+  padding:20px;
+  font-size: 30px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:black; 
+ 
+}
+ .navbar-brand{
+  padding-top: 40px;
+ }
+ 
+ 
+.link1{
+  text-decoration: none;
+  font-weight: 700;
+  color: brown;
+}
+.nbutton{
+  padding: 6px;
+  border-radius: 8px;
+  margin-top: 8px;
+  border-color: red;
+  color:black;
+}
+.nbutton textarea{
+  padding: 6px;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+ 
+ 
+.searchtop{
+  padding: 10px;
+text-align: center;
+border-radius: 10px;
+border-color: red;
+margin: 30px;
+width: 60%;
+margin-left: 20%;
+color:red;
+font-weight: 700;
+ 
+ 
+}
+.submittop{
+  padding: 3px;
+  border-radius: 5px;
+  border-color: red;
+ font-weight: 500;
+ 
+}
+.headingtop,h1{
+   
+  color: black;
+  text-align: center;
+  font-weight: 800;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px;
+}
+.articletop,h2{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration:none;
+  text-align: center;
+  list-style-type: none;
+  border-radius: 20px;
+  background: transparent ;
+}
+  .articletop, ul{
+    background-color: lightgray;
+  }
+.bottom button{
+  padding: 8px;
+  padding: 3px;
+  border-radius: 5px;
+  border-color:blue;
+ font-weight: 500;
+ margin-left: 10px;
+ margin-right: 10px;
+ background-color: blueviolet;
+ color: aliceblue;
+
+}
+ 
+.bottom{
+  text-align: center;
+  color: black;
+  font-weight: 600;
+  padding: 10px;
+ 
+  
+}
+.articleimg{
+  border-radius: 100px;
+  border-color: blue;
+  box-shadow: 2px blue;
+}
+.articletop p{
+  color:black;
+  
+}
+.f1{
+  background-color: skyblue;
+} 
+ 
+ .container-fluid{
+  
+  background-color:skyblue;
+ }  
+#ba{
+  background-color:black;
+  text-align: center;
+  color: aliceblue;
+}
+.bx{
+  background-color: lightgray;
+}
